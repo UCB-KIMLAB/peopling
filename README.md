@@ -1,6 +1,13 @@
 Genomic demography of world’s ethnic populations and genomic identity between two individuals
 ====================================================================================
 
+## Installation & function uses.
+
+*
+* 
+* 
+* 
+
 ## Introduction 
 
 This repository contatins R codes which I used for the analysis
@@ -10,9 +17,22 @@ This repository contatins R codes which I used for the analysis
 ## test mermaid diagram in github
 
 ```mermaid
- sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
+graph TD
+graph TD
+A[fa:fa-database 1KGP]  --> |Phase 3 vcf  | C
+B[fa:fa-database SGDP]  --> |Plink files | C
+C[fa:fa-filter QC/QA] --> | 10-letter <br> encoding | D 
+D[Feature Profiling/Normalization] --> F 
+F[pairwise-JS divergence calculation] --> G
+G[BioNJ] --> | Tree Optimization by finding best K-mer | H
+A --> I
+B --> I
+I[meta data] --> J
+H[Final Tree] --> K[Sample Mapping]
+J[Map] --> K
+C --> L 
+L[pairwise IBS2 <br> calculation] --> M
+M[distance comparison] --> H
  ```
 ## softwares
 
