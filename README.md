@@ -10,7 +10,7 @@ This repository contains R/perl codes to conduct an analysis of the [Genomic dem
 - current status : Code cleaning and review.
 - sorry for the inconvenient We will upload the clean codes as soon as possible
 
-## Installation & function uses.
+## Installation & functions
 
 - We are preparing the codes
 
