@@ -42,8 +42,8 @@ graph TD
     * [.bim.zip](https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.bim.zip)
     * [.bed](https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.bed)
     * [.fam](https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.fam)
-    * metadata file curated by BJK.
-      * [metadata manipulation]()
+    * metadata file was curated by BJK after download.
+      * metadata manipulation
 
 * [1000 genome project phase 3](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/release/20130502/)
 
