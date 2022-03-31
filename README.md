@@ -5,10 +5,7 @@ Genomic demography of world’s ethnic populations and genomic identity between 
 
 ## Introduction 
 
-This repository contatins R/perl codes to conduct analysis on Genomic demography of world’s ethnic populations and genomic identity between two individuals.
-
-
-
+This repository contains R/perl codes to conduct an analysis of the [Genomic demography of world’s ethnic populations and genomic identity between two individuals](http://dx.doi.org/10.1101/2022.03.28.486119) and analysis details.
 
 ## Installation & function uses.
 
