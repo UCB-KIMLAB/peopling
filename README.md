@@ -1,20 +1,16 @@
 Genomic demography of world’s ethnic populations and genomic identity between two individuals
-====================================================================================
-
-## Installation & function uses.
-
-*
-* 
-* 
-* 
+=============================================================================================
 
 ## Introduction 
 
 This repository contatins R codes which I used for the analysis
 
-(plz see hgrc:~/kimgrp/sgdp.v2 folder)
 
-## test mermaid diagram in github
+## Installation & function uses.
+
+current status : code reviewing
+
+## workflow
 
 ```mermaid
 
@@ -49,34 +45,9 @@ graph TD
     * metadata file curated by BJK.
       * [metadata manipulation]()
 
-* [1000 genome project phase 3]()
-
-## workflow
-
-```bash
-
-
-```
-
-
-## DATA manipulation
-
-```bash
-for i in $(seq 1 1 22)
-do
-  plink --bfile cteam_extended.v4.maf0.1perc --geno 0.01 --recode vcf --chr $i --out <outfile1>
-done
-```
-## map graphics
-
-
-## PCA/eigenvalue plot
-
-
-##
-
+* [1000 genome project phase 3](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/release/20130502/)
 
 ## Contributers
 
-* Byung-Ju Kim PhD
+* Byung-Ju Kim PhD (bjk@inu.ac.kr)
 
