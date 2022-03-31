@@ -51,5 +51,5 @@ graph TD
 
 ## Contributers
 
-* Byung-Ju Kim PhD (bjk@inu.ac.kr)
+* Byung-Ju Kim (bjk@inu.ac.kr)
 
