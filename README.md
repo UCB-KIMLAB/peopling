@@ -34,10 +34,11 @@ graph TD
     L[pairwise IBS2 <br> calculation] --> M
     M[distance comparison] --> H
  ```
-## softwares
+## softwares used.
 
 * plink
 * R/Shiny
+* [feature frequency profile](https://github.com/jaejinchoi/FFP)
 
 ## DATA
 
