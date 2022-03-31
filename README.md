@@ -1,9 +1,13 @@
 Genomic demography of world’s ethnic populations and genomic identity between two individuals
 =============================================================================================
 
+[![DOI](https://zenodo.org/badge/doi/10.1101/2022.03.28.486119.svg)](http://dx.doi.org/10.1101/2022.03.28.486119)
+
 ## Introduction 
 
-This repository contatins R codes which I used for the analysis
+This repository contatins R/perl codes to conduct analysis on Genomic demography of world’s ethnic populations and genomic identity between two individuals.
+
+
 
 
 ## Installation & function uses.
