@@ -52,6 +52,14 @@ graph TD
 
 * [1000 genome project phase 3](https://ftp.ncbi.nlm.nih.gov/1000genomes/ftp/release/20130502/)
 
+
+## custom functions to use
+
+```r
+library(devtools)
+install_github("Displayr/flipPlots")
+```
+
 ## Contributers
 
 * Byung-Ju Kim (bjk@inu.ac.kr)
