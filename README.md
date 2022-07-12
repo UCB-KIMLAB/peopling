@@ -12,7 +12,15 @@ This repository contains R/perl codes to conduct an analysis of the [Genomic dem
 
 ## Installation & functions
 
-- We are preparing the codes
+```r
+library(devtools)
+install_github("Displayr/flipPlots")
+```
+
+### code usage
+
+- code usage with examples
+
 
 ## workflow
 
@@ -55,10 +63,7 @@ graph TD
 
 ## custom functions to use
 
-```r
-library(devtools)
-install_github("Displayr/flipPlots")
-```
+
 
 ## Contributers
 
