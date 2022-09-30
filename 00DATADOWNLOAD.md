@@ -10,7 +10,7 @@ done
 
 ```
 
-### Simons genome diversity Panel
+### Simons Genome Diversity Panel (sgdp) data
 
 the following plink files (.bim, .bem, and .fam) were downloaded from section (i) of reich lab homepage (https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
 
