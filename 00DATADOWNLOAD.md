@@ -12,7 +12,7 @@ done
 
 ### Simons genome diversity Panel
 
-the following plink files (.bim, .bem, and .fam) were downloaded from section (i) of reich labs homepage (https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
+the following plink files (.bim, .bem, and .fam) were downloaded from section (i) of reich lab homepage (https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
 
 ```bash
 BIM=https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.bim.zip
