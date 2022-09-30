@@ -1,6 +1,6 @@
 ## 1000 genome data
 
-For 1kg dataset, we downloaded all 1kg variant call files which anchor on chromosomes by using wget commands
+For 1kg dataset, we downloaded all 1kg variant call files which anchor on chromosomes by using wget commands from ISGR ftp site.
 
 ```bash
 for i in $(seq 1 1 22); 
