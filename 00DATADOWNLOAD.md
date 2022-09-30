@@ -1,0 +1,25 @@
+## 1000 genome data
+
+For 1kg dataset, we downloaded all 1kg variant call files which anchor on chromosomes by using wget commands
+
+```bash
+for i in $(seq 1 1 22); 
+do 
+  wget https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/ALL.chr$i''.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz;
+done
+
+```
+
+### Simons genome diversity Panel
+
+the following plink files were downloaded from section (i) of reich labs homepage (https://reichdata.hms.harvard.edu/pub/datasets/sgdp/)
+
+BIM=https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.bim.zip
+BED=https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.bed
+FAM=https://sharehost.hms.harvard.edu/genetics/reich_lab/sgdp/variant_set/cteam_extended.v4.maf0.1perc.fam
+
+```bash
+wget $BIM
+wget $BED
+wger $FAM
+```
